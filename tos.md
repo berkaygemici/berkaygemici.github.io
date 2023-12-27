@@ -1,4 +1,4 @@
-Terms & Conditions
+#Terms & Conditions
 
 By downloading or using the Chatme app, these terms will automatically apply to you. Please read them carefully before using the app. You are prohibited from copying or modifying the app, any part of the app, or our trademarks in any way. Attempting to extract the source code of the app or translating the app into other languages or making derivative versions is also not allowed. The app itself and all related trademarks, copyright, database rights, and other intellectual property rights belong to Catyard Studio.
 
