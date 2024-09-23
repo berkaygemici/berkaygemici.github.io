@@ -41,4 +41,8 @@ We do not knowingly collect personally identifiable information from children. W
 
 We may update our Privacy Policy from time to time. Therefore, we recommend that you review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
+**Contact Support**
+
+For any questions, suggestions, or support regarding this app, please contact Berkay Gemici at catyardapp@gmail.com.
+
 This policy is effective as of 2024-09-18.
