@@ -4,7 +4,7 @@ This page is intended to inform visitors about our policies regarding the collec
 
 By choosing to use our Service, you agree to the collection and use of information in accordance with this policy. The Personal Information we collect is utilized to provide and enhance the Service, and we will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at Mathbot unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at Fish Identifier unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
